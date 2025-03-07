@@ -1,5 +1,9 @@
 ## Hi there 👋
+Dr. Irshad Palakkal (MBBS, MD, PGDMLE) is a distinguished medical doctor, entrepreneur, and dedicated social worker hailing from Kerala and currently based in Bangalore. His extensive medical expertise is complemented by his commitment to social welfare initiatives, reflecting his passion for community service.
 
+Throughout his career, Dr. Palakkal has been actively involved in various social projects, focusing on improving healthcare accessibility and quality for underprivileged communities. His entrepreneurial ventures in the medical field aim to bridge gaps in healthcare delivery, ensuring that essential services reach those in need.
+
+Dr. Palakkal’s dedication to both medicine and social work has earned him recognition and respect among peers and the communities he serves. His journey from Kerala to Bangalore exemplifies his commitment to making a positive impact on society through his diverse roles.
 <!--
 **DrIRSHADPALAKKAL/Drirshadpalakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
